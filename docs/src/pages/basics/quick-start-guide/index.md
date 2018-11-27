@@ -44,4 +44,4 @@ To learn more about what the Storybook CLI command `sb init` command does, have 
 - [Ember](/basics/guide-ember/)
 - [Riot](/basics/guide-riot/)
 
-A tutorial is also available at [Learn Storybook](https://www.learnstorybook.com) for a step-by-step guide (only available for React).
+Tutorials are also available at [Learn Storybook](https://www.learnstorybook.com) for a step-by-step guide (available for [React](https://www.learnstorybook.com/react/en/get-started), [Vue](https://www.learnstorybook.com/vue/en/get-started/) and [Angular](https://www.learnstorybook.com/angular/en/get-started/)).
